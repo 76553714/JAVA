@@ -1,0 +1,4 @@
+name:JOY matric:209796 first:100 labtest:80 quiz:99 project:77 finalexam:98 
+name:PERSON2 matric:20236 first:12 labtest:29 quiz:15 project:10 finalexam:40 
+name:PICK matric:208888 first:88 labtest:66 quiz:77 project:99 finalexam:95 
+name:WOW4 matric:109999 first:14 labtest:20 quiz:15 project:10 finalexam:40 
